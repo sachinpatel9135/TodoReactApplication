@@ -68,4 +68,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ### Actual App Description
-We are building To Do Application using ReactJS on Front-End
+
+To Do Application built using ReactJS on Front-End.
+It is based on the principle of CRUD(Create,Read,Update,Delete).
